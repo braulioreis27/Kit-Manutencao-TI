@@ -1,0 +1,8 @@
+          FORMATAÇÃO DE DISCOS USB CLI
+
+1 - Digite LIST DISK para exibir os discos
+2 - Digite SELECT DISK + o numero do disco que quer selecionar      
+3 - Digite CLEAN para limpar a tela                                            
+4 - Digite CREATE PARTITION PRIMARY para criar uma particao primaria  
+5 - Digite FORMART FS=FAT32 QUICK para formatar no formato fat32       
+6 - Digite EXIT caso queira sair e voltar ao menu anterior

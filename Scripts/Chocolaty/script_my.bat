@@ -1,0 +1,2 @@
+echo off
+choco install googlechrome googledrive notepadplusplus notepadplusplus.install vscode k-litecodecpackfull onlyoffice gimp gimp-data-extras spotify vlc jre8 microsoft-edge dotnet-sdk dotnetfx git git.install gpg4win wget curl foxitreader freedownloadmanager anydesk anydesk.install teamviewer winrar silverlight docker-engine docker-compose docker-desktop docker-cli wls wls2 -y

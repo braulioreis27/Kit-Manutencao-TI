@@ -1,0 +1,7 @@
+:COMPACTA ARQUIVOS DO WINDOWS
+@echo off
+cls
+color 4f
+title REALIZANDO COMPACTACAO DOS ARQUIVOS WINDOWS....
+COMPACT.EXE /CompactOS:always
+pause
